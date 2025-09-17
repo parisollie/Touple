@@ -2,7 +2,7 @@
 import Foundation
 
 /**
- Touples
+ Touple
  It's something that allows us to group together related pieces of data that have different data types, and it's as convenient as creating a simple dictionary, but it gives you the flexibility of holding different data types and It's not as high effort as creating an entire struct or a class.
  
  So by using a Swift tuple, we're able to organize related pieces of data that are relatively small.
